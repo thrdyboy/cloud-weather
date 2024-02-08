@@ -1,0 +1,46 @@
+html, 
+.background-screen {
+    background-color: pink;
+    height: 100%;
+    
+}
+
+.container {
+    color: black;
+}
+
+.table-design {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+
+/* .ButtonDesign {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    top: 305px; Sesuaikan dengan jarak dari bawah yang diinginkan
+    left: -23px;
+    transform: translateX(-50%); Untuk memposisikan tepat di tengah
+} */
+
+/* .ButtonDesign button {
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #333;
+    border: none;
+    left: -23px;
+    border-radius: 5px;
+    cursor: pointer;
+} */
+
+/* .ButtonDesign p {
+    text-align: end;
+} */
